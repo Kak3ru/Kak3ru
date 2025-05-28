@@ -37,4 +37,8 @@ Automação de investigações e coleta de dados OSINT
 
 Exploração de vulnerabilidades web usando JavaScript
 ```
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Kak3ru&show_icons=true&theme=radical" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kak3ru&layout=compact&theme=radical" height="150"/> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kak3ru&show_icons=true&theme=tokyonight&hide_title=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kak3ru&layout=compact&theme=tokyonight&hide_title=true&langs_count=10" height="150"/>
+</p>
+
