@@ -11,14 +11,10 @@
 ![Detetive Digital](https://img.shields.io/badge/Investigador-Digital-7D3C98?style=for-the-badge&logo=github&logoColor=white)
 ![Logica:)](https://img.shields.io/badge/L%C3%B3gica-Dedutiva-283747?style=for-the-badge)
 ![Focado](https://img.shields.io/badge/Analise-PostGreSQL-1C2833?style=for-the-badge&logo=codeforces)
-![Lógica: Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Lógica: Rails](https://img.shields.io/badge/Rails-C3002F?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Lógica: Sinatra](https://img.shields.io/badge/Sinatra-9B111E?style=for-the-badge&logo=ruby&logoColor=white)
-![Lógica: Gems](https://img.shields.io/badge/Gems-8E44AD?style=for-the-badge&logo=rubygems&logoColor=white)
-
-
-
-
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-C3002F?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Sinatra](https://img.shields.io/badge/Sinatra-9B111E?style=for-the-badge&logo=ruby&logoColor=white)
+![Gems](https://img.shields.io/badge/Gems-8E44AD?style=for-the-badge&logo=rubygems&logoColor=white)
 
 ---
 
@@ -30,15 +26,12 @@ Identidade: Hacker Ético e Perito Contábil e Digital
 Estilo: Lógica Absoluta, investigação profunda, dedução extrema.
 Ferramentas: Ruby • Python • C++ • JavaScript • Terminal • Inteligência Analítica
 Missão: Decifrar, descobrir, desmascarar.
-🚧 Estudando Atualmente
+🚧 Estudando Atualmente:
 Desenvolvimento de ferramentas de forense digital em Ruby
-
 Automação de investigações e coleta de dados OSINT
-
 Exploração de vulnerabilidades web usando JavaScript
 ```
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kak3ru&show_icons=true&theme=tokyonight&hide_title=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kak3ru&layout=compact&theme=tokyonight&hide_title=true&langs_count=10" height="150"/>
 </p>
 
