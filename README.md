@@ -19,7 +19,7 @@
 
 ```yaml
 Nome: Kakero
-Identidade: Hacker Ético e Perito Forense
+Identidade: Hacker Ético e Perito Contábil e Digital
 Estilo: Lógica Absoluta, investigação profunda, dedução extrema.
 Ferramentas: Ruby • Python • C++ • JavaScript • Terminal • Inteligência Analítica
 Missão: Decifrar, descobrir, desmascarar.
