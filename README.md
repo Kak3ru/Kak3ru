@@ -23,5 +23,11 @@ Identidade: Hacker Ético e Perito Forense
 Estilo: Lógica Absoluta, investigação profunda, dedução extrema.
 Ferramentas: Ruby • Python • C++ • JavaScript • Terminal • Inteligência Analítica
 Missão: Decifrar, descobrir, desmascarar.
+🚧 Estudando Atualmente
+Desenvolvimento de ferramentas de forense digital em Ruby
+
+Automação de investigações e coleta de dados OSINT
+
+Exploração de vulnerabilidades web usando JavaScript
 ```
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Kak3ru&show_icons=true&theme=radical" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kak3ru&layout=compact&theme=radical" height="150"/> </p>
