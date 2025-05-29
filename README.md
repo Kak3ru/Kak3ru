@@ -16,8 +16,6 @@
 ![Sinatra](https://img.shields.io/badge/Sinatra-9B111E?style=for-the-badge&logo=ruby&logoColor=white)
 ![Gems](https://img.shields.io/badge/Gems-8E44AD?style=for-the-badge&logo=rubygems&logoColor=white)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=f8cbzd65mdjpivblkjb3k59pr&cover_image=true&theme=novatorem&bar_color=8e44ad&bar_color_cover=true)](https://open.spotify.com/user/f8cbzd65mdjpivblkjb3k59pr)
-
 ---
 
 ###  Sobre mim
