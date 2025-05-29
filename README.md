@@ -6,11 +6,6 @@
 
 <p align="center">
   <img src="/assets/RPP.gif" width="400" alt="Detective_scanning" />
-  
-  ### 🎧 O que estou ouvindo agora
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=f8cbzd65mdjpivblkjb3k59pr_ID&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/f8cbzd65mdjpivblkjb3k59pr)
-
 </p>
 
 ![Detetive Digital](https://img.shields.io/badge/Investigador-Digital-7D3C98?style=for-the-badge&logo=github&logoColor=white)
@@ -20,6 +15,8 @@
 ![Rails](https://img.shields.io/badge/Rails-C3002F?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Sinatra](https://img.shields.io/badge/Sinatra-9B111E?style=for-the-badge&logo=ruby&logoColor=white)
 ![Gems](https://img.shields.io/badge/Gems-8E44AD?style=for-the-badge&logo=rubygems&logoColor=white)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=f8cbzd65mdjpivblkjb3k59pr&cover_image=true&theme=novatorem&bar_color=8e44ad&bar_color_cover=true)](https://open.spotify.com/user/f8cbzd65mdjpivblkjb3k59pr)
 
 ---
 
